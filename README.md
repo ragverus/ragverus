@@ -1,16 +1,16 @@
-## Hi there 👋
+# Raghav Dinesh
 
-<!--
-**ragverus/ragverus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity architect building systems for signal, not noise.
 
-Here are some ideas to get you started:
+Currently crafting **[Vault](https://github.com/lazuna/vault)** — a living system of operational knowledge, threat intelligence, and detection engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Every Tuesday, a new drop.  
+No contributors. No fluff. Just clear systems.
+
+<p align="left">
+  <img alt="Updated Weekly" src="https://img.shields.io/badge/updated-weekly-brightgreen">
+  <img alt="Maintainer Mode" src="https://img.shields.io/badge/contributors-closed-lightgrey">
+  <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue">
+</p>
+
+> Built for practitioners, future CISOs, and those who build through chaos.
